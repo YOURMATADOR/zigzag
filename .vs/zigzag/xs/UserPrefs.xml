@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameControllerScript/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameControllerScript/GameController.cs" Line="19" Column="32" />
+      <File FileName="Assets/Scripts/BallScripts/BallScript.cs" Line="52" Column="29" />
+      <File FileName="Assets/Scripts/CameraScripts/CameraFollow.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/TileScripts/TileScript.cs" Line="45" Column="36" />
+      <File FileName="Assets/Scripts/GemScripts/GemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GemScripts/GemHover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GemScripts/GemCollect.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="zigzag" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="BallScript" expanded="True">
+                <Node name="rigidbody" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
